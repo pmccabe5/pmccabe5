@@ -2,7 +2,6 @@
 
 ## Contact Information:
 
-- Phone: 732-788-5730
 - Email: patrick.j.mccabe5@gmail.com
 - [Website](pmccabe5.github.io)
 
